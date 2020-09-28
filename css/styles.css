@@ -1,0 +1,123 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.topContainer {
+  background-color: #faf3dd;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  color: #68b0ab;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #68b0ab;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #8fc0a9;
+}
+
+p {
+  color: #40514E;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 8px 0 0 0;
+  width: 5%;
+  color: #a6a6a4;
+}
+
+.webDeveloper{
+  font-weight: normal;
+
+}
+
+
+.bottom-container {
+  background-color: #faf3dd;
+  margin-top: 50px;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 450px;
+}
+
+.btn {
+  color: #8fc0a9;
+}
+
+.footer-link {
+  color: #8fc0a9;
+  display: inline-block;
+  margin: 30px auto 30px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding-image {
+  width: 25%;   /* 25 percentage of its parent's width*/
+  float: left;
+  margin-right: 30px;
+}
+
+.database-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.data-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.profile {
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+#profile-image {
+  width: 250px;
+  height: 250px;
+}
+
+.footer {
+  color: #68b0ab;
+  padding-bottom: 20px;
+}
