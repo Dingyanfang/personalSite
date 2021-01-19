@@ -76,7 +76,7 @@ hr {
 .footer-link {
   color: #8fc0a9;
   display: inline-block;
-  margin: 30px auto 30px auto;
+  margin: 30px;
 }
 
 .skill-row {
@@ -113,11 +113,16 @@ hr {
 }
 
 #profile-image {
-  width: 250px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
 }
 
 .footer {
   color: #68b0ab;
   padding-bottom: 20px;
+}
+
+
+.skillset {
+  color: #8fc0a9;
 }
